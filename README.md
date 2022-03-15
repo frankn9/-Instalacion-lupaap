@@ -20,6 +20,47 @@ resultados de los concursos creados por la empresa.
 
 ● Capacita a los usuarios y reduce hasta en un 100% los costos de evaluación.
 
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+## Diagrama de flujo 
+
+
+
+
+```mermaid
+graph LR
+A[Instalacion lupaap] -- Con --> B(Manual de usuario)
+A[Instalacion lupaap] -- Con --> C(Windows)
+A[Instalacion lupaap] -- Con --> D(Fedora 35)
+A[Instalacion lupaap] -- Con --> E(Ubuntu)
+B[Manual de usuario] -- Manual --> F( link donde esta explicado el paso a paso:      https://stonly.com/sl/4a9030c0-53d6-46da-817b-bb1e03488856/Steps/)
+C[Windows] -- Manual --> G(Documento en word donde esta explicado el paso a paso:     https://docs.google.com/document/d/1hpoYiqJRTBdtTB472PUmpey7Da8BNQzH/edit?usp=sharing&ouid=101849266968021359181&rtpof=true&sd=true)
+D[Fedora 35] -- Manual--> H(Documento en word donde esta explicado el paso a paso:   https://docs.google.com/document/d/18dKxg3fp9Cv_hH4AybedsuvoeYHs0yw5/edit?usp=sharing&ouid=101849266968021359181&rtpof=true&sd=true)
+E[Ubunto] -- Manual--> I(Documento en word donde esta explicado el paso a paso)
+
+```
+
+
+
+
+
+
+
+
+### Manual de usuario
+
+
+
 En esta guía aprenderás a instalar Lupaap en tu equipo.
 sigue estos sencillos pasos.
 
@@ -35,7 +76,13 @@ https://stonly.com/sl/4a9030c0-53d6-46da-817b-bb1e03488856/Steps/
 
 
 
+
+
+
+
 __________________________________________________________________________________________________________________________________________________________________
+
+
 
 
 
@@ -54,6 +101,9 @@ En el siguiente manual aprenderas los pasos a seguir para la instalacion en tu e
 
 
 [Manual.Tecnico.Lupaap.docx](https://github.com/frankn9/lupaap/files/8254614/Manual.Tecnico.Lupaap.docx)
+
+
+
 
 
 
@@ -91,4 +141,20 @@ En el siguiente manual aprenderas los pasos a seguir para la instalacion en tu e
 
 
 [Instalación Lupaap FEDORA35(2).docx](https://github.com/frankn9/lupaap/files/8254700/Instalacion.Lupaap.FEDORA35.2.docx)
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+### Manual de instalacion para ubuntu
 
