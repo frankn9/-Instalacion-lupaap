@@ -1,5 +1,5 @@
 
-Bienvenido a Lupaap
+### Bienvenido a Lupaap
 
 
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Manual de instalacion para windows
+### Manual de instalacion para windows
 
 
 
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 
 
-Manual de instalacion para fedora 35:
+### Manual de instalacion para fedora 35:
 
 
 
