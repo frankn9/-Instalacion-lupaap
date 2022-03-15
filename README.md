@@ -21,7 +21,7 @@ resultados de los concursos creados por la empresa.
 ● Capacita a los usuarios y reduce hasta en un 100% los costos de evaluación.
 
 En esta guía aprenderás a instalar Lupaap en tu equipo.
-sigue estos sencillos pasos:
+sigue estos sencillos pasos.
 
 
 
@@ -34,6 +34,61 @@ https://stonly.com/sl/4a9030c0-53d6-46da-817b-bb1e03488856/Steps/
 
 
 
+
 __________________________________________________________________________________________________________________________________________________________________
 
-Manual de instalacion para windows 
+
+
+
+
+
+Manual de instalacion para windows
+
+
+
+En el siguiente manual aprenderas los pasos a seguir para la instalacion en tu equipo con sistema operativo de windows, sin importar cual sea su version:
+
+
+
+
+
+
+[Manual.Tecnico.Lupaap.docx](https://github.com/frankn9/lupaap/files/8254614/Manual.Tecnico.Lupaap.docx)
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+Manual de instalacion para fedora 35:
+
+
+
+
+
+
+Fedora es una distribución con estrechos vínculos con Red Hat Enteprise Linux, siendo más específicamente su banco de pruebas (pese a ello, Fedora es un sistema
+realmente muy capaz en entorno reales), así que las herramientas o componentes para programación juegan un papel importante.
+
+
+
+
+
+En el siguiente manual aprenderas los pasos a seguir para la instalacion en tu equipo con fedora 35
+
+
+
+
+
+
+
+[Instalación Lupaap FEDORA35(2).docx](https://github.com/frankn9/lupaap/files/8254700/Instalacion.Lupaap.FEDORA35.2.docx)
+
