@@ -43,9 +43,9 @@ A[Instalacion lupaap] -- Con --> B(Manual de usuario)
 A[Instalacion lupaap] -- Con --> C(Windows)
 A[Instalacion lupaap] -- Con --> D(Fedora 35)
 A[Instalacion lupaap] -- Con --> E(Ubuntu)
-B[Manual de usuario] -- Manual --> F( link donde esta explicado el paso a paso:      https://stonly.com/sl/4a9030c0-53d6-46da-817b-bb1e03488856/Steps/)
-C[Windows] -- Manual --> G(Documento en word donde esta explicado el paso a paso:     https://docs.google.com/document/d/1hpoYiqJRTBdtTB472PUmpey7Da8BNQzH/edit?usp=sharing&ouid=101849266968021359181&rtpof=true&sd=true)
-D[Fedora 35] -- Manual--> H(Documento en word donde esta explicado el paso a paso:   https://docs.google.com/document/d/18dKxg3fp9Cv_hH4AybedsuvoeYHs0yw5/edit?usp=sharing&ouid=101849266968021359181&rtpof=true&sd=true)
+B[Manual de usuario] -- Manual --> F( link donde esta explicado el paso a paso)
+C[Windows] -- Manual --> G(Documento en word donde esta explicado el paso a paso)
+D[Fedora 35] -- Manual--> H(Documento en word donde esta explicado el paso a paso)
 E[Ubunto] -- Manual--> I(Documento en word donde esta explicado el paso a paso)
 
 ```
