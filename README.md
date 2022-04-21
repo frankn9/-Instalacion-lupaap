@@ -47,7 +47,7 @@ A[Instalacion lupaap] -- Con --> F(Lupaap light)
 B[Manual de usuario] -- Manual --> G( link donde esta explicado el paso a paso)
 C[Windows] -- Manual --> H(Documento en word donde esta explicado el paso a paso)
 D[Fedora 35] -- Manual--> I(Documento en word donde esta explicado el paso a paso)
-E[Ubunto] -- Manual--> J(Documento en word donde esta explicado el paso a paso)
+E[Ubuntu] -- Manual--> J(Documento en word donde esta explicado el paso a paso)
 F[lupaap light]-- Documentacion--> K(Documentacion proyecto lupaap light)
 ```
 
