@@ -43,11 +43,12 @@ A[Instalacion lupaap] -- Con --> B(Manual de usuario)
 A[Instalacion lupaap] -- Con --> C(Windows)
 A[Instalacion lupaap] -- Con --> D(Fedora 35)
 A[Instalacion lupaap] -- Con --> E(Ubuntu)
-B[Manual de usuario] -- Manual --> F( link donde esta explicado el paso a paso)
-C[Windows] -- Manual --> G(Documento en word donde esta explicado el paso a paso)
-D[Fedora 35] -- Manual--> H(Documento en word donde esta explicado el paso a paso)
-E[Ubunto] -- Manual--> I(Documento en word donde esta explicado el paso a paso)
-
+A[Instalacion lupaap] -- Con --> F(Lupaap light)
+B[Manual de usuario] -- Manual --> G( link donde esta explicado el paso a paso)
+C[Windows] -- Manual --> H(Documento en word donde esta explicado el paso a paso)
+D[Fedora 35] -- Manual--> I(Documento en word donde esta explicado el paso a paso)
+E[Ubunto] -- Manual--> J(Documento en word donde esta explicado el paso a paso)
+F[lupaap light]-- Documentacion--> K(Documentacion proyecto lupaap light)
 ```
 
 
@@ -162,7 +163,7 @@ ________________________________________________________________________________
 
 
 
-  ### Introducción
+  #### Introducción
   
   
 
@@ -171,10 +172,24 @@ Este proyecto se desarrollará para mitigar las funcionalidades de Lupaap normal
 
 
 
-  ### Objetivos Generales
+  ####  Objetivos Generales
 
 Obtener un producto inicialmente, mínimo viable al pasar por control de calidad para posteriormente tener un producto terminado para el cliente. Y se puedan realizar los consumos de los Web Services requeridos entre ellos el Formulario de Vinculación de Productos, CRM y BPO. Además, se contará con un sistema de autenticación con token de seguridad encriptado en sha-1.
 El desarrollador podrá desarrollar las Web Services y funcionalidades sin limitaciones de entornos y con un código más entendible con menor nivel de riesgo de impacto negativo en el software.
+
+
+
+
+
+
+El en siguiente documento encontrara la documentacion relacionada con este proyecto llamado lupaap light:
+
+
+
+
+
+[Proyecto Lupaap Light.docx](https://github.com/frankn9/-Instalacion-lupaap/blob/main/Proyeto%20Lupaap%20Light.docx)
+
 
 
 
