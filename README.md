@@ -156,5 +156,30 @@ ________________________________________________________________________________
 
 
 
-### Manual de instalacion para ubuntu
+###  Proyecto Lupaap light
+
+
+
+
+
+  ### Introducción
+  
+  
+
+Este proyecto se desarrollará para mitigar las funcionalidades de Lupaap normal, pero en un entorno nuevo, debido a que el código muy extenso es causa de que los programadores no entiendan o se confundan y demoren al momento de desarrollar y entregar. Se tuvo en cuenta una nueva tecnología para ello.
+
+
+
+
+  ### Objetivos Generales
+
+Obtener un producto inicialmente, mínimo viable al pasar por control de calidad para posteriormente tener un producto terminado para el cliente. Y se puedan realizar los consumos de los Web Services requeridos entre ellos el Formulario de Vinculación de Productos, CRM y BPO. Además, se contará con un sistema de autenticación con token de seguridad encriptado en sha-1.
+El desarrollador podrá desarrollar las Web Services y funcionalidades sin limitaciones de entornos y con un código más entendible con menor nivel de riesgo de impacto negativo en el software.
+
+
+
+
+
+
+
 
